@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "username": "@Moses",
+    "email": "moses@exodus.net"
+  },
+  {
+    "id": 2,
+    "username": "@Aaron",
+    "email": "aarong@numbers.com"
+  },
+  {
+    "id": 3,
+    "username": "@Joshua",
+    "email": "josh@promise.org"
+  },
+  {
+    "id": 4,
+    "username": "@Paul",
+    "email": "paul@newlife.com"
+  },
+  {
+    "id": 5,
+    "username": "@Peter",
+    "email": "therock@jeru.org"
+  }
+]

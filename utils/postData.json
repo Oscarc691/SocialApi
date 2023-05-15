@@ -1,0 +1,46 @@
+[
+  {
+    "postText": "This the first thought",
+    "username": "@Moses",
+    "createdAt": "2023-04-28T09:24:03.000Z",
+    "reactions": [
+      {
+        "reactionBody": "😆",
+        "username": "@Aaron",
+        "createdAt": "2023-04-28T09:25:03.000Z"
+      }
+    ]
+  },
+  {
+    "postText": "This the second thought",
+    "username": "@Moses",
+    "createdAt": "2023-04-28T09:49:03.000Z"
+  },
+  {
+    "postText": "Another one",
+    "username": "@Aaron",
+    "createdAt": "2023-04-28T09:50:03.000Z",
+    "reactions": [
+      {
+        "reactionBody": "😆",
+        "username": "@Moses",
+        "createdAt": "2023-04-28T09:51:03.000Z"
+      }
+    ]
+  },
+  {
+    "postText": "Cool land guys",
+    "username": "@Joshua",
+    "createdAt": "2023-04-28T10:22:03.000Z"
+  },
+  {
+    "postText": "We do be thinkin",
+    "username": "@Paul",
+    "createdAt": "2023-04-28T10:23:03.000Z"
+  },
+  {
+    "postText": "Who's Dwayne?",
+    "username": "@Peter",
+    "createdAt": "2023-04-28T10:24:03.000Z"
+  }
+]
