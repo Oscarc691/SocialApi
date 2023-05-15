@@ -23,7 +23,7 @@ To install this application, clone the repository to your local machine, then ru
 
 ## Credits
 
-[Harrison Lamm](https://github.com/oscarc691)
+[Oscar Campos](https://github.com/oscarc691)
 
 ## License
 
